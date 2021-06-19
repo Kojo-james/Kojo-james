@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kojo-james
+- 👋 Hi, I’m james
 - 👀 I’m interested in games development
 - 🌱 I’m currently studying computer science
 
