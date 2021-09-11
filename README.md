@@ -1,5 +1,5 @@
 - 👋 Hi, I’m james
-- 👀 I’m interested in games development and sodtware development
+- 👀 I’m interested in games development and software development
 - 
 - 🌱 I’m currently studying computer science
 
